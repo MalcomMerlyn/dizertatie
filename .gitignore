@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Python
+.idea
+.xml
+*.pyc
+venv/
+
+# CUDA
+*.tlog
+*.opendb
+*.iobj
+*.ipdb
+*.db
